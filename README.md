@@ -16,7 +16,7 @@ chmod +x folderify.py
 
 # Usage
 
-Just run `python folerify.py` and it'll do its job.
+Just run `./folerify.py` and it'll do its job.
 
 ### _You might buy me a cup of coffee:_
 
